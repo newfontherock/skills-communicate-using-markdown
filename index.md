@@ -16,3 +16,6 @@ while (headSize > 5){
 }
 alert("Your head is now tiny.")
 ```
+- [x] Take a selfie.
+- [ ] Show selfie to a friend.
+- [ ] Rejoice in the knowledge your head is not as tiny as the man in the picture.
